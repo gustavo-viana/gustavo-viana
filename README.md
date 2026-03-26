@@ -1,6 +1,4 @@
-## Bem vindo ao meu <img align="center" alt="Guga-Js" height="40" width="40" src="https://github.com/gustavo-viana/gustavo-viana/blob/main/icones/github-original-wordmark.svg">
-
-<br>
+ Bem Vindo! ........... 
 
 ## 👨🏻‍💻 Sobre mim
 
